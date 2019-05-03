@@ -8,9 +8,13 @@ Cambios hechos en el dataset original etiquetado como OG.
 - A line that gives us the total entries removed in the process of droping the duplicates.
 - A line that fixes the size of the plot in the item "Top Hashtags por volumen de tuits"
 - Finally, I added a plot disaplying the volume of hashtags per hour.
- Things added after the previous list:
+ **Things added after the previous list:**
 - A column with the clensed text.
-- A column with flagged with the sentiment of the tweet.
-- Then a percents of each sentiment on the whole dataset. 
+- A Sentiment analisis with TextBlob.
+- A column ,sentiment_blob, with each tweet flagged in according the sentiment positive, negative or neutral.
+- Then percents of each sentiment on the whole dataset. 
+- A plot of the absolute frecuency of each value of column the sentiment_blob.
+- A new column named "sentiment", contributed by Celayes.
+- A plot bar of absolute frecuency of each value of column "sentiment"
 
 La lista está en inglés. 
