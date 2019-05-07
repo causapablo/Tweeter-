@@ -16,5 +16,6 @@ Cambios hechos en el dataset original etiquetado como OG.
 - A plot of the absolute frecuency of each value of column the sentiment_blob.
 - A new column named "sentiment", contributed by Celayes.
 - A plot bar of absolute frecuency of each value of column "sentiment"
+- A graph of the sentiment for top hashtags.
 
 La lista está en inglés. 
